@@ -1,0 +1,7 @@
+com\mcgg\qa\base\TestBase.class
+com\mcgg\qa\pages\DealsPage.class
+com\mcgg\qa\util\TestUtil.class
+com\mcgg\qa\pages\LoginPage.class
+com\mcgg\qa\pages\HomePage.class
+com\mcgg\qa\pages\ContactsPage.class
+com\mcgg\qa\pages\SignupPage.class
